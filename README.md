@@ -11,7 +11,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 🎯 À propos de moi
 
@@ -25,22 +25,17 @@ const mhamed = {
 };
 ```
 
-<br/>
+- 🔭 **Actuellement en train d'apprendre** : Java & Angular
+- 💼 **Portfolio** : [maithssaine.app](https://maithssaine.app)
+- 💡 **Expertise** : Spring Boot, Laravel, React.js
+- 📫 **Contact** : mhamedaithssaine1@gmail.com
+- ⚡ **Fun fact** : I think I am funny
 
-🔭 **Actuellement en train d'apprendre** : Java & Angular  
-💼 **Portfolio** : [maithssaine.app](https://maithssaine.app)  
-💡 **Expertise** : Spring Boot, Laravel, React.js  
-📫 **Contact** : mhamedaithssaine1@gmail.com  
-⚡ **Fun fact** : I think I am funny
-
-<br/>
+---
 
 ## 🛠️ Stack Technique
 
-<div align="center">
-
 ### 💻 Languages
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -49,7 +44,6 @@ const mhamed = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -60,55 +54,46 @@ const mhamed = {
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### ⚙️ Backend
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Databases
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### 🔧 DevOps & Tools
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-<br/>
+---
 
 ## 📊 Statistiques GitHub
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhamedaithssaine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedaithssaine&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mhamedaithssaine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhamedaithssaine&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
 
-<br/><br/>
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamedaithssaine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamedaithssaine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
-<br/>
+---
 
 ## 🏆 Trophées GitHub
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=mhamedaithssaine&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=mhamedaithssaine&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<br/>
+---
 
 ## 🌐 Connectez-vous avec moi
 
@@ -123,20 +108,22 @@ const mhamed = {
 
 </div>
 
-<br/>
+---
 
 <div align="center">
   
 ### 💭 Citation du jour
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br/><br/>
+### 🎵 Actuellement en écoute sur Spotify
+
+[![Spotify](https://novatorem-mhamedaithssaine.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+---
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>

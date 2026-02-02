@@ -1,6 +1,42 @@
-# 💫 About Me:
-## 👋 Hi, I'm M'hamed Ait Hssaine<br><br>🎓 Web Development student at **YouCode (Youssoufia, Morocco)**  <br>💻 Full-Stack Developer in training  <br>🚀 Passionate about building modern web applications<br><br>---<br><br>### 🛠️ Tech Stack<br><br>**Frontend:**  <br>- Angular  <br>- React  <br>- Redux Toolkit  <br>- HTML, CSS, JavaScript, TypeScript  <br><br>**Backend:**  <br>- Spring Boot (Java)  <br>- Laravel (PHP)  <br>- REST APIs  <br><br>**DevOps & Tools:**  <br>- Git & GitHub  <br>- Docker (basics)  <br>- Jenkins (CI/CD basics)  <br>- SonarQube  <br>- Keycloak  <br>- Elasticsearch<br>- MySQL / PostgreSQL  <br><br>---<br><br>### 📚 Education<br><br>- 🎓 YouCode – Web Development Program  <br>- 🎓 Bachelor's degree in Mathematics & Informatique<br>- 🎓 Baccalaureate in Mathematics & Physics  <br><br>---<br><br>### 🎯 Current Goals<br><br>- Improve my skills in **Spring Boot & Angular**<br>- Build scalable full-stack projects<br>- Learn more about **DevOps & Cloud**<br>- Get my first professional opportunity as a Full-Stack Developer<br><br>---<br><br>### 📫 Contact<br><br>- GitHub: https://github.com/mhamedaithssaine<br>- LinkedIn: https://www.linkedin.com/in/m-hamed-ait-hssaine/<br><br>---<br><br>⭐ *Always learning, always building.*<br>
+# 💫 About Me
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=M'hamed%20Ait%20Hssaine&fontSize=50&animation=fadeIn" />
+</p>
+
+### 👋 Salut ! Moi c'est M'hamed.
+**Développeur Full-Stack en devenir** passionné par la création d'applications web modernes et performantes. Actuellement en formation intensive chez **YouCode (UM6P)**.
+
+- 🎓 **Formation :** Développement Web @ YouCode (Youssoufia, MA)
+- 💡 **Spécialité :** Architecture Spring Boot & Écosystème React/Angular
+- 🚀 **Objectif :** Concevoir des solutions scalables et optimisées
+
+---
+
+### 🛠️ Tech Stack
+
+| Secteur | Technologies |
+| :--- | :--- |
+| **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white) |
+
+---
+
+### 📚 Éducation & Parcours
+* **YouCode (UM6P)** – Programme de Développement Web Professionnel
+* **Licence** – Mathématiques & Informatique
+* **Baccalauréat** – Sciences Mathématiques & Physiques
+
+---
+
+### 🎯 Objectifs Actuels
+- [ ] Perfectionner la maîtrise du déploiement **Cloud & CI/CD**.
+- [ ] Contribuer à des projets Open Source d'envergure.
+- [ ] Décrocher mon premier défi professionnel en tant que **Full-Stack Developer**.
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mhamedaithssaine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-hamed-ait-hssaine) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mhamedaithssaine1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HmuHssaine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhamedaithssaine1@gmail.com) 
